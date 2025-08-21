@@ -15,6 +15,26 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10</b> (21H2)
 
+## Virtual Machine set up.
+
+1. Go to Microsoft Azure Cloud
+<img width="1520" height="862" alt="1  Azure platform" src="https://github.com/user-attachments/assets/c9413712-5558-41d9-b766-185edcdd4c71" />
+
+
+2. Create a resource group
+
+<img width="668" height="476" alt="2  Resorse GRoups" src="https://github.com/user-attachments/assets/22e0e086-62ef-479a-9237-20e6ed9ed992" />
+
+3. Create a Virtual Machine (VM)
+<img width="1555" height="554" alt="3  Virtuak Mchine" src="https://github.com/user-attachments/assets/fffe1e81-494f-4c1e-98bc-96fc0b751d26" />
+
+   
+4. Connect to the VM with RDP (Remote Desktop Protocol)
+<img width="319" height="205" alt="4  Connect with RDP (Remote Desktop)" src="https://github.com/user-attachments/assets/3bc0af19-a8b2-4949-9968-f97781bd6dfe" />
+
+![VM](https://github.com/user-attachments/assets/3277c216-c6dc-4d23-bdfe-b533712987cc)
+
+
 <h2>List of Prerequisites</h2>
 
 - Microsoft Azure Account
