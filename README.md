@@ -15,6 +15,17 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10</b> (21H2)
 
+<h2>List of Prerequisites</h2>
+
+- Microsoft Azure Account
+- Azure Virtual Machine
+- Installing Windows 10
+- Enable IIS in Windows WITH CGI
+- Install PHP Manager for IIS
+- Install the Rewrite Module 
+- Install PHP
+- Install MySQL
+
 ## Virtual Machine set up.
 
 1. Go to Microsoft Azure Cloud
@@ -35,19 +46,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![VM](https://github.com/user-attachments/assets/3277c216-c6dc-4d23-bdfe-b533712987cc)
 
 
-<h2>List of Prerequisites</h2>
-
-- Microsoft Azure Account
-- Azure Virtual Machine
-- Installing Windows 10
-- Enable IIS in Windows WITH CGI
-- Install PHP Manager for IIS
-- Install the Rewrite Module 
-- Install PHP
-- Install MySQL
-
-
-<h2>Installation Steps</h2>
+<h2>osTicket installation Steps</h2>
 
 1. Turn on Internet Information Services
    - Control Panel -> Uninstall Programs -> Turn Windows features on or off 
